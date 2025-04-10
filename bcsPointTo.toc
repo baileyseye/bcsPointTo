@@ -1,0 +1,11 @@
+﻿## Interface: 30300
+## Title: bcsPointTo
+## Author: Olorin
+## Notes: Компас на Участника Группы или Координат или Лидера рейда.
+## OptionalDeps: None
+## SavedVariables: MainFrameXpos, MainFrameYpos, MainFramePoint,PointToDisabled,PointToAutoHide
+## Version: 0.7d
+## X-Credits: Olorin (автор), Стравинский (bugfixes, improvements)
+## X-Contributor: Стравинский
+
+bcsPointTo.lua
